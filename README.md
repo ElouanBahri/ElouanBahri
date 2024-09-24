@@ -46,7 +46,7 @@ Voici quelques projets notables de mon dépôt GitHub :
 
 ## Contact Information 📬
 
-[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](https://www.linkedin.com/in/elouan-bahri-211121291/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](https://www.linkedin.com/in/elouan-bahri-211121291/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elouanbahripro@gmail.com)
 
 Feel free to contact me for any collaboration or job opportunity. I am actively looking for an exciting internship from November 2024 to April 2025, and I am eager to bring my analytical insights and strategic solutions to succeed in the financial sector.
