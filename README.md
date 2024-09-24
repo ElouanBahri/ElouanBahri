@@ -30,7 +30,7 @@ My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </div>
 
-hese tools and languages allow me to tackle a wide range of projects and deliver robust solutions. From data analysis and machine learning to full-stack web development and algorithmic trading, I am equipped with the skills needed to excel in various fields.
+These tools and languages allow me to tackle a wide range of projects and deliver robust solutions. From data analysis and machine learning to full-stack web development and algorithmic trading, I am equipped with the skills needed to excel in various fields.
 
 ## Projects 💡
 
