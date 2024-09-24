@@ -16,16 +16,6 @@ My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
 </div>
 
-### Web Development:
-<div>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-</div>
-
 ### Databases:
 <div>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -40,7 +30,7 @@ My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </div>
 
-Ces outils et langages me permettent de relever un large éventail de projets et de fournir des solutions robustes. De l'analyse de données et du machine learning au développement web full-stack et au trading algorithmique, je suis équipé des compétences nécessaires pour exceller dans des domaines divers.
+hese tools and languages allow me to tackle a wide range of projects and deliver robust solutions. From data analysis and machine learning to full-stack web development and algorithmic trading, I am equipped with the skills needed to excel in various fields.
 
 ## Projects 💡
 
@@ -56,7 +46,7 @@ Voici quelques projets notables de mon dépôt GitHub :
 
 ## Contact Information 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/elouan-bahri-211121291/)
+[LinkedIn - Elouan Bahri](https://www.linkedin.com/in/elouan-bahri-211121291/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elouanbahripro@gmail.com)
 
 Feel free to contact me for any collaboration or job opportunity. I am actively looking for an exciting internship from November 2024 to April 2025, and I am eager to bring my analytical insights and strategic solutions to succeed in the financial sector.
