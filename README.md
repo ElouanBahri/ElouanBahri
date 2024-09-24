@@ -2,17 +2,9 @@
 
 #  < Elouan BAHRI/>
 
-## 🇫🇷 About Me 🇫🇷
+## 🇫🇷 About Me 
 
-🦇 Louis ZAMANIAN | Codeur le jour, Batman la nuit<br>
-💻 Full-Stack Developer en quête de défis techniques et de justice digitale<br>
-🌐 Passionné par l'open-source et l'automatisation, toujours à l'affût de nouvelles technos pour améliorer le quotidien des développeurs<br>
-🔧 Maîtrise des outils comme Git, Homebrew et bien plus... le tout pour combattre les bugs et maintenir l'ordre dans le code<br>
-🦸‍♂️ Quand je ne suis pas en train de coder, je veille sur Gotham (ou ton repo, c'est pareil)<br>
-🛠️ "It's not who I am underneath, but what I do that defines me"
-
-
-Je suis Louis Zamanian, étudiant à l'ENSAE, passionné de finance quantitative. Mes projets GitHub reflètent ma diversité de compétences et d'intérêts, y compris des jeux en Python, des algorithmes mathématiques (théorie des graphes, trading algorithmique), des sites web full-stack, l'analyse de données et le machine learning. J'ai de nombreux autres projets que j'aimerais mentionner, mais ils sont privés car développés spécifiquement pour des entreprises.
+My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring a high level of energy, strong determination, and a quick learning ability to everything I do. I am deeply passionate about quantitative finance, computer science and eager to explore opportunities that will expand my knowledge and experience in this field.
 
 ##  🛠️ Skills 🛠️
 
@@ -64,8 +56,8 @@ Voici quelques projets notables de mon dépôt GitHub :
 
 ## Contact Information 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-zamanian/) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.zamanianabbasi@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/elouan-bahri-211121291/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elouanbahripro@gmail.com)
 
 N'hésite pas à me contacter pour toute collaboration ou opportunité d'emploi. Je suis activement à la recherche d'un stage stimulant de novembre 2024 à avril 2025, et je suis désireux d'apporter mes insights analytiques et mes solutions stratégiques pour réussir dans le secteur financier.
 
