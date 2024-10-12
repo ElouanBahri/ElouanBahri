@@ -36,13 +36,13 @@ These tools and languages allow me to tackle a wide range of projects and delive
 
 Voici quelques projets notables de mon dépôt GitHub :
 
-**Python Games 🎮** - Collection de jeux interactifs construits en Python, mettant en avant mes compétences en programmation et ma créativité.
+#**Python Games 🎮** - Collection de jeux interactifs construits en Python, mettant en avant mes compétences en programmation et ma créativité.
 
-**Algorithmic Trading 📈** - Mise en œuvre de divers algorithmes mathématiques pour le trading sur les marchés financiers. Inclut le backtesting, l'analyse de données et le développement de stratégies.
+#**Algorithmic Trading 📈** - Mise en œuvre de divers algorithmes mathématiques pour le trading sur les marchés financiers. Inclut le backtesting, l'analyse de données et le développement de stratégies.
 
-**Full Stack Websites 🌐** - Création de sites web dynamiques et réactifs utilisant une combinaison de HTML, CSS, JavaScript et de frameworks comme React et Vue.
+#**Full Stack Websites 🌐** - Création de sites web dynamiques et réactifs utilisant une combinaison de HTML, CSS, JavaScript et de frameworks comme React et Vue.
 
-**Data Analysis and Machine Learning 📊** - Projets axés sur l'analyse et l'extraction d'insights à partir de données, en appliquant des techniques de machine learning pour la modélisation prédictive et la prise de décision.
+#**Data Analysis and Machine Learning 📊** - Projets axés sur l'analyse et l'extraction d'insights à partir de données, en appliquant des techniques de machine learning pour la modélisation prédictive et la prise de décision.
 
 ## Contact Information 📬
 
