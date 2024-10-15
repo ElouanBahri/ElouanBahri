@@ -32,11 +32,11 @@ My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring 
 
 These tools and languages allow me to tackle a wide range of projects and deliver robust solutions. From data analysis and machine learning to full-stack web development and algorithmic trading, I am equipped with the skills needed to excel in various fields.
 
-## Projects 💡
+<!--## Projects 💡
 
 Voici quelques projets notables de mon dépôt GitHub :
 
-<!--**Python Games 🎮** - Collection de jeux interactifs construits en Python, mettant en avant mes compétences en programmation et ma créativité.
+**Python Games 🎮** - Collection de jeux interactifs construits en Python, mettant en avant mes compétences en programmation et ma créativité.
 
 #**Algorithmic Trading 📈** - Mise en œuvre de divers algorithmes mathématiques pour le trading sur les marchés financiers. Inclut le backtesting, l'analyse de données et le développement de stratégies.
 
