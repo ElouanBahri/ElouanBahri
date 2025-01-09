@@ -19,6 +19,8 @@ My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring 
 ### Machine Learning:
 <div>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
 </div>
 
 ### Data Analysis/Manipulation:
