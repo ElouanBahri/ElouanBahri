@@ -5,7 +5,7 @@
 <h4 align="center">Passionate about Quantitative Finance, Data Science, and Machine Learning</h4>
 
 
-## 🇫🇷 About Me 
+## 🇫🇷🇺🇸 About Me 
 
 I’m Elouan Bahri, an ENSAE Paris engineering student and prospective MFE student at UC Berkeley, graduating in February 2027. Passionate about quantitative finance and computer science, I bring strong determination, energy, and a fast-learning mindset to every project I take on.
 
