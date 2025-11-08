@@ -1,10 +1,13 @@
 <div align="center">
 
-#  < Elouan BAHRI/>
+<h1 align="center">&lt; Elouan BAHRI /&gt;</h1>
+<h3 align="center">Engineering Student @ ENSAE Paris | Prospective MFE Student @ UC Berkeley</h3>
+<h4 align="center">Passionate about Quantitative Finance, Data Science, and Machine Learning</h4>
+
 
 ## 🇫🇷 About Me 
 
-My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring a high level of energy, strong determination, and a quick learning ability to everything I do. I am deeply passionate about quantitative finance, computer science and eager to explore opportunities that will expand my knowledge and experience in this field.
+I’m Elouan Bahri, an ENSAE Paris engineering student and prospective MFE student at UC Berkeley, graduating in February 2027. Passionate about quantitative finance and computer science, I bring strong determination, energy, and a fast-learning mindset to every project I take on.
 
 ##  🛠️ Skills 🛠️
 
@@ -14,13 +17,15 @@ My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
-### Machine Learning:
+### Machine Learning & Statistics:
 <div>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Statsmodels-1E4B6D?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels">
 </div>
 
 ### Data Analysis/Manipulation:
@@ -48,9 +53,9 @@ Voici quelques projets notables de mon dépôt GitHub :
 ## Contact Information 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elouan-bahri-211121291/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elouanbahripro@gmail.com)
+[![Berkeley Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elouan.bahri1@berkeley.edu)
 
-Feel free to contact me for any collaboration or job opportunity. I am actively looking for an exciting internship from November 2024 to April 2025, and I am eager to bring my analytical insights and strategic solutions to succeed in the financial sector.
+Feel free to contact me for any collaboration or job opportunity. I am actively seeking an exciting summer internship between May 2026 and November 2026, and I am eager to apply my analytical skills and strategic mindset to contribute to the financial sector.
 
 Let's connect and explore new possibilities together! 🤝
 
