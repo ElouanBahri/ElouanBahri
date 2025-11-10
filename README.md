@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">&lt; Elouan BAHRI /&gt;</h1>
+<h1 align="center"> Elouan BAHRI </h1>
 <h3 align="center">Engineering Student @ ENSAE Paris | Prospective MFE Student @ UC Berkeley</h3>
 <h4 align="center">Passionate about Quantitative Finance, Data Science, and Machine Learning</h4>
 
