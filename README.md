@@ -34,6 +34,7 @@ I’m Elouan Bahri, an ENSAE Paris engineering student and prospective MFE stude
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Polars-5A00FF?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
 </div>
 
 These tools and languages allow me to tackle a wide range of projects and deliver robust solutions. From data analysis and machine learning to full-stack web development and algorithmic trading, I am equipped with the skills needed to excel in various fields.
