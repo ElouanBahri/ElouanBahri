@@ -2,7 +2,7 @@
 
 <h1 align="center"> Elouan BAHRI </h1>
 <h3 align="center">Engineering Student @ ENSAE Paris | MFE Student @ UC Berkeley</h3>
-<h4 align="center">Passionate about Quantitative Finance, Data Science, and Machine Learning</h4>
+<h4 align="center">Passionate about Trading, Quantitative Finance, Data Science, and Machine Learning</h4>
 
 
 ## 🇫🇷🇺🇸 About Me 
@@ -56,7 +56,7 @@ Voici quelques projets notables de mon dépôt GitHub :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elouan-bahri-211121291/)
 [![Berkeley Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elouan.bahri1@berkeley.edu)
 
-Feel free to contact me for any collaboration or job opportunity. I am actively seeking an exciting summer internship between May 2026 and November 2026, and I am eager to apply my analytical skills and strategic mindset to contribute to the financial sector.
+Feel free to contact me for any collaboration or job opportunities. I am actively seeking an exciting full-time opportunity starting at the end of March 2027, and I am eager to apply my analytical skills and strategic mindset to contribute to the financial sector.
 
 Let's connect and explore new possibilities together! 🤝
 
